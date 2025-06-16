@@ -3,13 +3,13 @@
   color: gray;
   display: flex;
   justify-content: space-between;
+  margin-left: 100px;
 }
 .Footer-inner-container {
-  width: 60%;
+  width: 80%;
 }
 .Footer-icons {
   width: 12%;
-  background-color: blue;
   justify-content: space-between;
   margin: 10px;
   color: #fff;
